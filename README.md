@@ -4,8 +4,9 @@
 
 In this lab, we will work with Amazon Web Services (AWS), one of the leading cloud service providers, and focus on using Amazon Simple Storage Service (S3) for data storage. AWS S3 provides storage over web service interfaces such as REST, SOAP, and BitTorrent, enabling us to store and retrieve data flexibly. Data in S3 is organized in "buckets" that act as containers for files and folders. Each bucket can be individually configured with unique access control policies, enabling secure, organized, and scalable storage for various purposes.
 
-Name : Yuvaraj B
-Reg No : 212222040186
+**Name** : Yuvaraj B
+
+**Reg No** : 212222040186
 
 
 ## Objectives
