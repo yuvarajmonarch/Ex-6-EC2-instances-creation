@@ -1,12 +1,10 @@
-# EX-06-EC2 Instance Creation
-
-## **Aim**
-To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
-
+## EX-06-EC2 Instance Creation
 
 **Name**: Yuvaraj B<br>
 **Reg No**: 212222040186
 
+## **Aim**
+To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
 
 ## **Objectives**
 1. **Log into AWS**: Access the AWS Management Console to create and manage resources.
